@@ -1,0 +1,11 @@
+.git/
+.vercel/
+node_modules/
+dist/
+.env*
+/supabase/
+supabase-go
+supabase.tar.gz
+guidelines/
+README.md
+ATTRIBUTIONS.md
