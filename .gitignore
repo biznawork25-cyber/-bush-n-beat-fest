@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vercel/
+.env
+.env.*
+!.env.example
+supabase/.temp/
+.vercel
+.env*
+
+supabase-go
+supabase.tar.gz
+*.ts_backup
